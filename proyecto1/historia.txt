@@ -1,3 +1,5 @@
 Historia de Angel Ardon
 Graduado de Bussiness Administration
 Proximo a estudiar Maestria Data Science
+edad 43 
+nacio en Guatemala
